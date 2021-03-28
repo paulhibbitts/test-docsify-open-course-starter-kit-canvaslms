@@ -30,7 +30,7 @@
 *   [Usability checklist (Userium)](https://userium.com/)
 *   [UX Project Checklist](http://uxchecklist.github.io/)
 
-## UX Technique Collections  
+### UX Technique Collections  
 *   [Methods | Usability.gov](http://www.usability.gov/how-to-and-tools/methods/)
 *   [Methods | Usability Body of Knowledge](http://www.usabilitybok.org/methods)
 *   [Usability Planner](http://usabilityplanner.org/#home)
