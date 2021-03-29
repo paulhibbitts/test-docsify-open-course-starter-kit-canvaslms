@@ -1,7 +1,7 @@
 # Docsify Open Course Starter Kit
 
 [![Docsify](https://img.shields.io/npm/v/docsify?label=docsify)](https://docsify.js.org/)
-[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/hibbitts-design/docsify-open-publishing-starter-kit/blob/master/LICENSE)
+[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/hibbitts-design/docsify-open-course-starter-kit/blob/master/LICENSE)
 <a href="https://discord.gg/Sn8RtSmw">
     <img src="https://img.shields.io/badge/chat-on%20discord-7289DA.svg" alt="Docsify Discord Chat" />
 </a>
