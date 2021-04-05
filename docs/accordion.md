@@ -1,4 +1,4 @@
-## Techniques
+## Accordion Demo
 
 <div class="accordion">
 
