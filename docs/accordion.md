@@ -15,7 +15,7 @@
 <details>
   <summary>Example Two</summary>
 
-  **Details Title Tw**
+  **Details Title Two**
   1. A numbered
   2. list
      * With some
