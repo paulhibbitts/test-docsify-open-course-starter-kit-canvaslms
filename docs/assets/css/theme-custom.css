@@ -143,6 +143,7 @@
 }
 
 .markdown-section .accordion {
+    margin-top: 1.05rem;
     position: relative;
     display: -ms-flexbox;
     display: flex;
