@@ -23,7 +23,7 @@
   color: white;
   height: 38px;
   padding: 8px;
-  background-color: #0A75BD;
+  background-color: var(--link-color);
   text-decoration: none;
   border-radius: .25rem;
 }
