@@ -7,7 +7,7 @@ An example of using Details/Summary in Docsify, using a combination of HTML and 
 <details>
   <summary>Click to expand</summary>
 
-  ## Heading
+  ### Heading
   1. A numbered
   2. list
      * With some
@@ -17,7 +17,7 @@ An example of using Details/Summary in Docsify, using a combination of HTML and 
 <details>
   <summary>Click to expand too</summary>
 
-  ## Heading
+  ### Heading
   1. A numbered
   2. list
      * With some
@@ -27,7 +27,7 @@ An example of using Details/Summary in Docsify, using a combination of HTML and 
 <details>
   <summary>Click to expand here as well</summary>
 
-  ## Heading
+  ### Heading
   1. A numbered
   2. list
      * With some
