@@ -3,9 +3,9 @@
 <div class="accordion">
 
 <details>
-  <summary>Click to expand</summary>
+  <summary>Example One</summary>
 
-  **Details Title**
+  **Details Title One**
   1. A numbered
   2. list
      * With some
@@ -13,9 +13,9 @@
 </details>
 
 <details>
-  <summary>Click to expand too</summary>
+  <summary>Example Two</summary>
 
-  **Details Title**
+  **Details Title Tw**
   1. A numbered
   2. list
      * With some
@@ -23,9 +23,9 @@
 </details>
 
 <details>
-  <summary>Click to expand here as well</summary>
+  <summary>Example Three</summary>
 
-  **Details Title**
+  **Details Title Three**
   1. A numbered
   2. list
      * With some
