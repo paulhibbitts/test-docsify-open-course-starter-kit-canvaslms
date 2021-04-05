@@ -164,6 +164,7 @@
 }
 
 .markdown-section summary {
+  color: #008EE2;
   padding: 0;
   background-color: #FFFFFF;
   h1, h2, h3 {
