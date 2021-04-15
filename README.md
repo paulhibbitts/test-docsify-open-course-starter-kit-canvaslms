@@ -64,8 +64,8 @@ For example, https://hibbitts-design.github.io/docsify-open-course-starter-kit/#
 If the automatically generated 'Edit this Page on GitHub' link is not working, you can manually set the source URL to your GitHub Repository.
 
 1. Edit the file index.html in your repository
-2. Find the current GitHub repository URL https://github.com/hibbitts-design/docsify-open-course-starter-kit and replace it with your own repository URL, for example https://github.com/YourGitHubUsername/Docsify/blob/master/docs/
-3. Commit your changes.
+2. Find the current GitHub repository URL https://github.com/hibbitts-design/docsify-open-course-starter-kit and replace it with your own repository URL, for example https://github.com/YourGitHubUsername/YourRepositoryName/tree/master/docs
+3. Commit your changes
 
 📼 Video Walkthrough of Local Docsify Install/Config
 ---
