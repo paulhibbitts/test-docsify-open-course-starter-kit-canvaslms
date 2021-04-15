@@ -36,7 +36,7 @@ _Figure 1. Docsify Open Course Starter Kit. Explore a demo at [hibbitts-design.g
 ---  
 
 **Editing Your Docsify Site Pages on GitHub**
-1. Go to the GitHub Page you want to edit
+1. Go to the GitHub Docsify site page (in the `docs` folder) you want to edit
 2. Tap the **Pencil Icon** (top left-hand toolbar area) and then make the edits you want
 3. Scroll down to the bottom of the page and tap the **Commit changes** button to save your changes
 
