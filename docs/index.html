@@ -111,9 +111,11 @@
             function (hook, vm) {
               hook.beforeEach(function (html) {
                 if (/githubusercontent\.com/.test(vm.route.file)) {
+                  console.log(vm.route.file)
                   url = vm.route.file
                     .replace('raw.githubusercontent.com', 'github.com')
                     .replace(/\/master/, '/blob/master')
+                  console.log(vm.route.file)
                 } else {
                   // Replace the below URL variable with your own Repository URL path up to, and including, '/docs'
                   // For example, 'https://github.com/YourGitHubUsername/YourRepositoryName/tree/master/docs'
