@@ -110,8 +110,6 @@
           plugins: [
             function (hook, vm) {
               hook.beforeEach(function (html) {
-                console.log(vm.route)
-                console.log(vm.route.file)
                 if (/githubusercontent\.com/.test(vm.route.file)) {
                   url = vm.route.file
                     .replace('raw.githubusercontent.com', 'github.com')
