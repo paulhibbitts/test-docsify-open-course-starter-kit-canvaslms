@@ -72,6 +72,7 @@
 <body>
     <div id="app"></div>
     <script>
+      // Replace the below URL with your own GitHub Repository URL
       var yourRepo = 'https://github.com/paulhibbitts/test-docsify-open-course-starter-kit-canvaslms';
 
       function getParameterByName(name, url = window.location.href) {
@@ -116,10 +117,7 @@
                   url = vm.route.file
                     .replace('raw.githubusercontent.com', 'github.com')
                     .replace(/\/master/, '/blob/master')
-                  console.log(vm.route.file)
                 } else {
-                  // Replace the below URL variable with your own Repository URL path up to, and including, '/docs'
-                  // For example, 'https://github.com/YourGitHubUsername/YourRepositoryName/tree/master/docs'
                   url = yourRepo +'/blob/main/docs/' + vm.route.file
                 }
                 var editHtml = '[:memo: Edit this Page on GitHub](' + url + ')\n'
