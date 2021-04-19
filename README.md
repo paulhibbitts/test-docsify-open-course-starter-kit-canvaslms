@@ -24,7 +24,7 @@ _Figure 1. Docsify Open Course Starter Kit. Explore a demo at [hibbitts-design.g
 1. Tap **Use this template** on the source repository (upper-right green button)
 2. Choose the name for your new repository to contain the copied site files and then tap **Create repository from template**
 3. Go to **Settings** of your newly created repository, tap the **Pages** tab (on the left-hand side), choose **main branch/docs folder** and finally tap the **Save** button (see more details in the [Docsify documentation](https://docsify.js.org/#/deploy?id=github-pages))
-4. And you're done! (view your new site using the provided URL on the **Pages** tab - it can take up to 20 minutes for your site to be initially available)
+4. Now your pages are published (view your new site using the provided URL on the **Pages** tab - it can take up to 20 minutes for your site to be initially available)
 
 **Editing Your Docsify Site Pages on GitHub**
 1. Go to the GitHub Docsify site page (in the `docs` folder) you want to edit
