@@ -30,7 +30,7 @@ _Figure 1. Docsify Open Course Starter Kit. Explore a demo at [hibbitts-design.g
 
 1. Go to the file index.html in the `docs` folder of your repository
 2. Tap the **Pencil Icon** (top left-hand toolbar area) to start the editor
-3. Find the original GitHub repository URL `https://github.com/hibbitts-design/docsify-open-course-starter-kit` and replace it with your own repository URL, for example `https://github.com/your-github-username/your-repository-name`
+3. Find the original GitHub repository URL `https://github.com/paulhibbitts/test-docsify-open-course-starter-kit-canvaslms` and replace it with your own repository URL, for example `https://github.com/your-github-username/your-repository-name`
 4. Scroll down to the bottom of the page and tap the **Commit changes** button to save your changes
 
 💻 Locally Editing your Docsify Site Pages
