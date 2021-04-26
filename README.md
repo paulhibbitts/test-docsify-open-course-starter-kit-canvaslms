@@ -76,7 +76,7 @@ To optionally hide the 'Edit this Page on GitHub' link, use the following:
 
 For example, https://hibbitts-design.github.io/docsify-open-course-starter-kit/#/resources would display a standard Docsify page while https://hibbitts-design.github.io/docsify-open-course-starter-kit/#/resources?embedded=true&hidegithublink=true would only display page content (i.e. no sidebar or optional navbar is shown) and also hide the 'Edit this Page on GitHub' link.
 
-🕸 Hosting a Docsify Open Course Site on your LMS
+🕸 Hosting a Docsify Open Course Site Within Your LMS
 ---
 
 As Docsify Open Course Starter Kit is serverless, it can actually be hosted on many LMSs that support file libraries such as Canvas and Moodle.
