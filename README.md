@@ -89,7 +89,7 @@ For example, here is a [Docsify Open Course Site hosted within a Canvas course](
 3. Based on your LMS, determine the external URL required to load the `index.html` file within the Docsify `Docs` folder. In Canvas, an example URL would look similar to `https://canvas.sfu.ca/courses/44038/files/15884796/download`.
 
 | :warning: Once hosted within your LMS changes made to the source GitHub repository are no longer automatically synced to your hosted course. Any file changes made must be manually uploaded to the LMS file library area.   |
-|--------------------------------------------------------------------------------------------|
+|:--|
 
 📼 Video Walkthrough of Local Docsify Install/Config
 ---
