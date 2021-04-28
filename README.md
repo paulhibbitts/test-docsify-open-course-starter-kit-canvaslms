@@ -105,7 +105,6 @@ _Video 1. Generating Documentation Sites with GitHub and Docsify - Alysson Alvar
 ---
 [Markdown Cheat Sheet](https://warpedvisions.org/projects/markdown-cheat-sheet/)
 [Markdown Guide](https://www.markdownguide.org/)
-[Markdown Tutorial](http://designedbywaldo.com/en/tools/markdown-tutorial)
 
 🙇‍Credits and Special Thanks
 ---
