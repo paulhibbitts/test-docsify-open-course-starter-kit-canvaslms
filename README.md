@@ -100,7 +100,6 @@ _Video 1. Generating Documentation Sites with GitHub and Docsify - Alysson Alvar
 
 📚 Docsify and Markdown Resources
 ---
-
 **Docsify**  
 [Docsify Documentation](https://docsify.js.org/#/?id=docsifyg)  
 [Docsify Basics by MichaelCurrin](https://michaelcurrin.github.io/docsify-js-tutorial/#/?id=docsify-basics)  
