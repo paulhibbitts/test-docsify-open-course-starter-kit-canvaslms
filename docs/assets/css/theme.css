@@ -36,7 +36,7 @@
   padding-right: 5px;
 }
 
-.markdown-section .reminders {
+.markdown-section .alert {
   overflow: visible;
   margin: 2em 0;
   padding: 1.5em;
@@ -53,7 +53,7 @@
   quotes: "“""”""‘""’";
 }
 
-.markdown-section .reminders ul {
+.markdown-section .alert ul {
   list-style: none;
   margin-top: .5em;
   padding-top: 0;
@@ -61,11 +61,11 @@
   padding-bottom: 0;
 }
 
-.markdown-section .reminders ul li {
+.markdown-section .alert ul li {
   padding-left: 0em;
 }
 
-.markdown-section .reminders ul li:before {
+.markdown-section .alert ul li:before {
   content: '\2713';
   padding-right: 5px;
 }
