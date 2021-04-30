@@ -223,6 +223,10 @@
   }
 }
 
+hr {
+    margin: 1em 0;
+}
+
 body .docsify-pagination-container {
     display: flex;
     flex-wrap: wrap;
