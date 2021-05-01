@@ -21,6 +21,7 @@
 
 .markdown-section blockquote ul {
   list-style: none;
+  list-style-position:inside;
   margin-top: .5em;
   padding-top: 0;
   margin-bottom: .5em;
