@@ -34,6 +34,8 @@
 .markdown-section blockquote ul li:before {
   content: '\25C6';
   color: #333;
+  vertical-align:middle;
+  padding-bottom:7px;
   padding-right: 2px;
 }
 
