@@ -26,6 +26,7 @@
 .markdown-section blockquote ul li:before {
     color: #333;
     content: '\2B29';
+    font-size: 1.1rem;
     font-weight: bold;
 }
 
