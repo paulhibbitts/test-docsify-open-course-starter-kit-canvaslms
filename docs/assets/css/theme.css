@@ -30,6 +30,7 @@
 .markdown-section blockquote ul li:before {
   color: #333;
   content: '\2B29';
+  padding-right: 3px;
   font-weight: bold;
 }
 
