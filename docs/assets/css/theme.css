@@ -25,8 +25,7 @@
 
 .markdown-section blockquote ul li:before {
     color: #333;
-    content: '» ';
-    font-size: 1.2em;
+    content: '\2B29';
     font-weight: bold;
 }
 
@@ -55,14 +54,15 @@
   padding-bottom: 0;
 }
 
-.markdown-section .alert ul li {
-  padding-left: 0em;
+.markdown-section .alert ul {
+    list-style: none;
 }
 
 .markdown-section .alert ul li:before {
-  content: '\2B25';
-  color: #333;
-  padding-right: 2px;
+    color: #333;
+    content: '» ';
+    font-size: 1.2rem;
+    font-weight: bold;
 }
 
 .markdown-section .button {
