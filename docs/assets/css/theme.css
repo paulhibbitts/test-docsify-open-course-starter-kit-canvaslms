@@ -20,24 +20,14 @@
 }
 
 .markdown-section blockquote ul {
-  list-style: none;
-  list-style-position:inside;
-  margin-top: .5em;
-  padding-top: 0;
-  margin-bottom: .5em;
-  padding-bottom: 0;
-}
-
-.markdown-section blockquote ul li {
-  padding-left: 0em;
+    list-style: none;
 }
 
 .markdown-section blockquote ul li:before {
-  content: '\25C6';
-  color: #333;
-  vertical-align:middle;
-  padding-bottom: 9px;
-  padding-right: 2px;
+    color: #333;
+    content: '» ';
+    font-size: 1.2em;
+    font-weight: bold;
 }
 
 .markdown-section .alert {
