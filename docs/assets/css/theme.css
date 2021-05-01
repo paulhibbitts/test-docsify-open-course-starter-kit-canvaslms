@@ -12,22 +12,22 @@
 }
 
 .markdown-section {
-    padding: 1rem 35px;
+  padding: 1rem 35px;
 }
 
 .markdown-section blockquote {
-    margin: 1.5em 0;
+  margin: 1.5em 0;
 }
 
 .markdown-section blockquote ul {
-    list-style: none;
+  list-style: none;
 }
 
 .markdown-section blockquote ul li:before {
-    color: #333;
-    content: '\2B29';
-    font-size: 1.1rem;
-    font-weight: bold;
+  color: #333;
+  content: '\2B29';
+  font-size: 1.1rem;
+  font-weight: bold;
 }
 
 .markdown-section .alert {
@@ -56,14 +56,14 @@
 }
 
 .markdown-section .alert ul {
-    list-style: none;
+  list-style: none;
 }
 
 .markdown-section .alert ul li:before {
-    color: #333;
-    content: '» ';
-    font-size: 1.2rem;
-    font-weight: bold;
+  color: #333;
+  content: '\2B29';
+  font-size: 1.1rem;
+  font-weight: bold;
 }
 
 .markdown-section .button {
