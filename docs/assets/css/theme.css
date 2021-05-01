@@ -66,7 +66,7 @@
 }
 
 .markdown-section .alert ul li:before {
-  content: '\2713';
+  content: '\2B25';
   padding-right: 5px;
 }
 
