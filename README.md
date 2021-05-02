@@ -113,10 +113,11 @@ _Video 1. Generating Documentation Sites with GitHub and Docsify - Alysson Alvar
 
 Thanks to a built-in update system, your Docsify Open Course Starter Kit will use the latest Docsify release available. However, if you want to use the latest updates to the Docsify Open Course Starter Kit itself, please do the following:
 
-1. Download the most recent `index.html` file in the `Docs` folder on the Docsify Open Course Starter Kit
-2. Download the most recent `theme.css` file in the `Docs/assets/css` folder on the Docsify Open Course Starter Kit
-3. Replace your own `index.html` file in the `Docs` folder with the newly downloaded `index.html` file
-4. Replace your own `theme.css` file in the `Docs/assets/css` folder with the newly downloaded `theme.css` file
+1. Go to the [Docsify Open Course Starter Kit releases page](https://github.com/hibbitts-design/docsify-open-course-starter-kit/releases)
+2. Download the `Source code (zip)` file of the latest release and expand that file
+Download the most recent `index.html` file in the `Docs` folder on the Docsify Open Course Starter Kit
+3. Replace your own `index.html` file in the `Docs` folder with the unzipped `index.html` file in the folder `Docs`
+4. Replace your own `theme.css` file in the `Docs/assets/css` folder with the unzipped `theme.css` file in the folder `Docs/assets/css`
 
 | :warning: | If you have done any customizations to either of the above files please make a copy of each before you replace them with the downloaded versions so you can then make the same changes in the newly updated files. |
 |---|:--|
