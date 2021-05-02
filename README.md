@@ -115,7 +115,6 @@ Thanks to a built-in update system, your Docsify Open Course Starter Kit will us
 
 1. Go to the [Docsify Open Course Starter Kit releases page](https://github.com/hibbitts-design/docsify-open-course-starter-kit/releases)
 2. Download the `Source code (zip)` file of the latest release and expand that file
-Download the most recent `index.html` file in the `Docs` folder on the Docsify Open Course Starter Kit
 3. Replace your own `index.html` file in the `Docs` folder with the unzipped `index.html` file in the folder `Docs`
 4. Replace your own `theme.css` file in the `Docs/assets/css` folder with the unzipped `theme.css` file in the folder `Docs/assets/css`
 
