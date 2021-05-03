@@ -1,4 +1,5 @@
-🛑 **This is a testing-only repository. View the active project repository at https://github.com/hibbitts-design/docsify-open-course-starter-kit** 🛑
+| 🛑 | **This is a testing-only repository. View the active project repository at https://github.com/hibbitts-design/docsify-open-course-starter-kit.** |
+|---|:--|
 
 # Docsify Open Course Starter Kit
 
