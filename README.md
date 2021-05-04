@@ -29,7 +29,7 @@ _Figure 1. Docsify Open Course Starter Kit. Explore a demo at [hibbitts-design.g
 3. Go to **Settings** of your newly created repository, tap the **Pages** tab (on the left-hand side), choose **main branch/docs folder** and finally tap the **Save** button (see more details in the [Docsify documentation](https://docsify.js.org/#/deploy?id=github-pages))
 4. Now your pages are published (view your new site using the provided URL on the **Pages** tab - it can take up to 20 minutes for your site to be initially available)
 
-Want to use your own web server instead of GitHub Pages? You can do that, and then use a [GitHub Action](https://github.com/features/actions) such as [FTP-Deploy-Action](https://github.com/SamKirkland/FTP-Deploy-Action) to automatically update your Docsify content whenever the content repository is updated.
+Want to use your own web server instead of GitHub Pages? You can do that, and then use a [GitHub Action](https://github.com/features/actions) such as [FTP-Deploy-Action](https://github.com/SamKirkland/FTP-Deploy-Action) to automatically update your Docsify content whenever the source content repository is updated.
 
 **Configure the "Edit this Page on GitHub" Link**
 
