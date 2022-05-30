@@ -3,22 +3,63 @@
 Put your custom CSS in this file.
 ===============================================================================================================================
 */
-
 /* CSS to better visually match Docsify pages within Canvas LMS (uncomment to use) */
-/*
+
 @import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 
 body .markdown-section {
-    font-family: "Lato","Helvetica Neue",Arial,sans-serif;
-    line-height: 1.4;
-    font-size: 16px;
+  font-family: "Lato", "Helvetica Neue", Arial, sans-serif;
+  font-size: 16px;
+  line-height: 1.4;
 }
 
-.markdown-section a:link, .markdown-section a:visited, .markdown-section a:active {
-    text-decoration: none;
+.markdown-section blockquote {
+  border-color: #757b7f;
 }
 
-.markdown-section a:hover {
-    text-decoration: underline;
+.markdown-section .alert {
+  border-color: #757b7f;
+}
+
+.progress {
+  background-color: #757b7f;
+}
+
+body {
+  font-family: "Lato", "Helvetica Neue", Arial, sans-serif;
+  font-size: 16px;
+}
+
+body .app-nav {
+  font-family: "Lato", "Helvetica Neue", Arial, sans-serif;
+  font-size: 16px;
+  line-height: 1.4;
+}
+
+.app-nav:not(:empty)~main .markdown-section {
+  padding-top: 7.5rem;
+}
+
+.markdown-section  #docsify-darklight-theme {
+    visibility: hidden;
+}
+
+.app-nav:not(:empty)~main .markdown-section #docsify-darklight-theme {
+margin-top: 40px;
+}
+
+/*
+.markdown-section .badge {
+  color: var(--codeBackgroundColor);
+  background-color: var(--blockQuoteColor);
+}
+
+.markdown-section .badge a {
+  color: var(--codeBackgroundColor);
+}
+
+.markdown-section #a, .markdown-section #b, .markdown-section #c, .markdown-section #d, .markdown-section #e, .markdown-section #f, .markdown-section #g, .markdown-section #h, .markdown-section #i, .markdown-section #j, .markdown-section #k, .markdown-section #l, .markdown-section #m, .markdown-section #n, .markdown-section #o, .markdown-section #p, .markdown-section #q, .markdown-section #r, .markdown-section #s, .markdown-section #t, .markdown-section #u, .markdown-section #v, .markdown-section #w, .markdown-section #x, .markdown-section #y, .markdown-section #z {
+  color: var(--codeBackgroundColor);
+  background: var(--blockQuoteColor);
 }
 */
