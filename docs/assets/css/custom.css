@@ -13,14 +13,6 @@ body .markdown-section {
   line-height: 1.4;
 }
 
-.markdown-section blockquote {
-  border-color: #757b7f;
-}
-
-.markdown-section .alert {
-  border-color: #757b7f;
-}
-
 .progress {
   background-color: #757b7f;
 }
