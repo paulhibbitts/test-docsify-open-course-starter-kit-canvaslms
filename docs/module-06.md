@@ -1,4 +1,4 @@
-![Usability Test](images/dave-hoefler-vl2uAIdBWJ8-unsplash.jpg ':class=banner-image')
+![Image Description](images/dave-hoefler-vl2uAIdBWJ8-unsplash.jpg ':class=banner-image')
 
 # Module Title
 
